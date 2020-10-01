@@ -16,7 +16,7 @@ body {
 
   width: 100vw;
   height: 100vh;
-  background: url(./component/img/dawn.jpeg);
+  background: url(./components/img/dawn.jpeg);
   background-position: center;
   background-size: cover;
 }
@@ -42,7 +42,7 @@ body {
   height: 50%;
   left: 50%;
   transform: translateX(-50%);
-  background: url(./component/img/gwindow.gif);
+  background: url(./components/img/gwindow.gif);
   background-size: cover;
 }
 .loader .title {
