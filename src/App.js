@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import GetLoc from "./component/getLoc";
-import WeatherCast from "./component/weathercast";
+import GetLoc from "./components/getLoc";
+import WeatherCast from "./components/weathercast";
 import "./App.css";
 const api = {
   key: "ee3ced07b760108f76e17408e247f771",
