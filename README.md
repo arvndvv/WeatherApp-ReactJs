@@ -3,6 +3,9 @@
 The app can get weather details of location that user provides or user can make the app get their location.<br>
 Reference: [Build a Weather App in React JS | React JS beginner Tutorial](https://www.youtube.com/watch?v=GuA0_Z1llYU)
 
+## OUTPUT
+<img src="sample.png"  height="550px" alt="sample" />
+
 ## Available Scripts
 
 In the project directory, you can run:
