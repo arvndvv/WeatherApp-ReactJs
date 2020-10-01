@@ -83,7 +83,7 @@ function App() {
       ) : (
         ""
       )}
-      <footer>copyright &copy; Davinci </footer>
+      <footer>copyright &copy; B374BR4IN </footer>
     </div>
   );
 }
