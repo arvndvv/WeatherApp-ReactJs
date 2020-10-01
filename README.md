@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### React #3
+## Weather App
+The app can get weather details of location that user provides or user can make the app get their location.<br>
+Reference: [Build a Weather App in React JS | React JS beginner Tutorial](https://www.youtube.com/watch?v=GuA0_Z1llYU)
 
 ## Available Scripts
 
